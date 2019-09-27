@@ -1,0 +1,7 @@
+logs
+results
+*.pyc
+.vscode/
+__pycache__/
+
+rlsaber/__pycache__/
